@@ -1,3 +1,5 @@
+![background](readme-background.jpg)
+
 ### Hi there 👋
 
 My name is Vlada Caban. Enthusiastic about Software Development, constant learning and problem solving.
